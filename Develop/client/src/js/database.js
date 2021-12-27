@@ -26,8 +26,8 @@ export const putDb = async (content) => {
 
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
-  console.log("Get form the database");
-  console.error("getDb not implemented");
+  console.log("Get from the database");
+  // console.error("getDb not implemented");
 
   // Create a connection to the database database and version we want to use.
   const jateDB = await opendDB("jate", 1);
