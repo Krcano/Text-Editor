@@ -19,7 +19,7 @@ const pageCache = new CacheFirst({
   ],
 });
 
-// how do i immplement the offlineFallback worbox reicpe?
+// how do i immplement the offlineFallback worbox recipe?
 warmStrategyCache({
   urls: ['/index.html', '/'],
   strategy: pageCache,
