@@ -8,6 +8,10 @@
 
 This app is a text editor that runs in the browser. It uses WebPack to enable the app to meet PWA criteria to allow the site to be viewable offline. I incorporated social workers from the library Workbox to create data persistance and cacheing of information. It also allows you to store information with local storage and IndexDB as a redundancy in case one of those options are not supported by the browser.
 
+![JATE screenshot Browser](./Assets/my-Jate-browser-screenshot.png)
+![JATE screenshot Browser](./Assets/pwa-jate-pic.png)
+
+
 ## Table of Contents
 
 [Usage](#usage)
