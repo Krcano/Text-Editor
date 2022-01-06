@@ -22,7 +22,7 @@ To install the project the user must have Node.js on their local computer and on
 
 ## Usage
 
-When you first open the page you will see the JATE text editor header will appear as the default text. That shows when nothing else has been inputted by the user. However, if you choose to erase it and start typing things of your own and the page will save and when you refresh the page the data will persist. If you choose to view the page offline you can press the `install` button and view the most recent change you made since pressing the button on your screen without needing to be in the browser.
+When you first open the page you will see the JATE text editor header will appear as the default text. That shows when nothing else has been inputted by the user. However, if you choose to erase it and start typing things of your own and the page will save and when you refresh the page the data will persist. If you choose to view the page offline you can press the `install` button or the download button in the google window and view the most recent change you made since pressing the button on your screen without needing to be in the browser.
 
 ## Technologies
 
